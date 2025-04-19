@@ -1,5 +1,9 @@
 # Discord-Joiner-V1.1
 
+**Tele Contact:** [@sudodaemonn](https://t.me/sudodaemonn)
+
+**Tele Channel:** [Join Here](https://t.me/+qP9G-_ii_XA1MGIx)
+
 Discord Token Creator/Joiner developed by SudoKrypt
 
 ## Features
