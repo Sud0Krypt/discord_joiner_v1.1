@@ -1,7 +1,7 @@
 import tls_client, json, random, string, threading, yaml
 from modules.utilities import get_useragent, build_xsp, get_version, get_username
 from modules.hcaptcha import solve_captcha
-# MADE BY PR0T0N DON'T SKID LMAO (IF YOU SKID AT LEAST STAR THE REPO)
+# MADE BY SUD0KRYPT DON'T SKID LMAO (IF YOU SKID AT LEAST STAR THE REPO)
 # PLEASE STAR THE REPO
 # to lazy to make super property builder that's why I didn't use randomuseragent lib
 
