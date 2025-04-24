@@ -1,6 +1,6 @@
 # Discord-Joiner-V1.1
 
-**Tele Contact:** [@go0go0fo0go0](https://t.me/go0go0fo0go0)
+**Tele Contact:** [@sudodaemonnn](https://t.me/sudodaemonnn)
 
 **Tele Channel:** [Join Here](https://t.me/+qP9G-_ii_XA1MGIx)
 
